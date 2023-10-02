@@ -37,7 +37,6 @@ struct node {
     }
   }
 };
-
 // LEETCODE.COM
 
 struct linked_list {
